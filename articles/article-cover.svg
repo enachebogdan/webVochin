@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Articol medical</title>
+  <desc id="desc">Copertă generică pentru articole medicale.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef9f7"/>
+      <stop offset="100%" stop-color="#b5dfd9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="140" y="150" width="1320" height="600" rx="42" fill="#ffffff" opacity="0.94"/>
+  <rect x="250" y="250" width="280" height="320" rx="30" fill="#d8f0ec"/>
+  <path d="M340 350h100v-40h50v40h40v50h-40v100h-50V400H340z" fill="#49a7a1"/>
+  <rect x="650" y="280" width="560" height="34" rx="17" fill="#74c3bc"/>
+  <rect x="650" y="360" width="470" height="24" rx="12" fill="#9bd8d1"/>
+  <rect x="650" y="420" width="500" height="24" rx="12" fill="#b4e0da"/>
+  <rect x="650" y="480" width="420" height="24" rx="12" fill="#c6e9e3"/>
+  <text x="800" y="660" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="72" font-weight="700" fill="#1f7f83">Articol medical</text>
+</svg>

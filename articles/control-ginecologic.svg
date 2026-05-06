@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Control ginecologic</title>
+  <desc id="desc">Generic preventive gynecological consultation header image.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef9f7"/>
+      <stop offset="100%" stop-color="#b5e0db"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="120" y="150" width="1360" height="600" rx="40" fill="#ffffff" opacity="0.95"/>
+  <circle cx="380" cy="450" r="130" fill="#cfece7"/>
+  <path d="M360 410h40v-40h60v40h40v60h-40v40h-60v-40h-40z" fill="#49a7a1"/>
+  <rect x="650" y="300" width="580" height="34" rx="17" fill="#79c8c0" opacity="0.92"/>
+  <rect x="650" y="380" width="500" height="24" rx="12" fill="#a7ddd7"/>
+  <rect x="650" y="435" width="440" height="24" rx="12" fill="#bddfda"/>
+  <text x="800" y="655" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="72" font-weight="700" fill="#1f7f83">Control ginecologic</text>
+</svg>
